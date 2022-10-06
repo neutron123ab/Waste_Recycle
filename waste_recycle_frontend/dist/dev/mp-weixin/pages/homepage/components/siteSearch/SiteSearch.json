@@ -1,7 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "near-site-info": "./NearSiteInfo",
-    "recommend-site": "./RecommendSite"
-  }
-}

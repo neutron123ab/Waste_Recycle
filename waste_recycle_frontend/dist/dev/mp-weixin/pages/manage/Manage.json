@@ -1,7 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "sailed": "./components/Sailed",
-    "no-sailed": "./components/NoSailed"
-  }
-}

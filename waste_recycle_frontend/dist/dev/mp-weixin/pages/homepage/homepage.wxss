@@ -1,6 +1,0 @@
-
-.page {
-  display: flex;
-  margin-top: 95rpx;
-}
-

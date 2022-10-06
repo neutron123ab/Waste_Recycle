@@ -1,6 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "uni-pagination": "../../components/uni-pagination/uni-pagination"
-  }
-}
