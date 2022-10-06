@@ -1,0 +1,28 @@
+server:
+  port: 8088
+#  ssl:
+#    enabled: true
+#    key-store: classpath:www.wasterecycle.xyz.jks
+#    key-store-password: kz777y02663h
+#    key-store-type: jks
+spring:
+  data:
+    mongodb:
+      database: waste_recycle
+#      username: neutron
+#      password: '137911'
+#      authentication-database: waste_recycle
+      host: localhost
+      port: 27017
+  redis:
+    host: 121.4.139.32
+    port: 6379
+    database: 0
+    jedis:
+      pool:
+        max-active: 8
+        max-wait: 1ms
+        max-idle: 4
+        min-idle: 0
+
+baseUrl: http://localhost:8088
