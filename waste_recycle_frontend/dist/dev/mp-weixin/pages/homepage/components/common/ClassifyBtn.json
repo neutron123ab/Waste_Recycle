@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "site-search": "../siteSearch/SiteSearch"
+  }
+}

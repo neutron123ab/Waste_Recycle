@@ -1,0 +1,28 @@
+
+.avatar-wrapper.data-v-4c14cf4c {
+  width: 200rpx;
+  height: 200rpx;
+}
+button.data-v-4c14cf4c {
+  padding-left: 0;
+  padding-right: 0;
+}
+.userInfo.data-v-4c14cf4c {
+  display: flex;
+  flex-direction: column;
+}
+.fieldBox.data-v-4c14cf4c {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.b.data-v-4c14cf4c {
+  height: 80rpx;
+}
+.c.data-v-4c14cf4c {
+  height: 30rpx;
+}
+.btnBox.data-v-4c14cf4c {
+  margin-top: 30rpx;
+}
+

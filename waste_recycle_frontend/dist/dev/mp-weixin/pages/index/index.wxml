@@ -1,0 +1,1 @@
+<view class="login"><image class="background" src="https://wasterecycle.xyz/images/waste_recycle/login/index.png"></image><view class="login-box"><view class="t1">环易</view><view class="t2">固废资源回收，从你我做起</view><view class="button-group"><view class="button">注册</view><view class="button" bindtap="{{a}}">登录</view></view></view></view>

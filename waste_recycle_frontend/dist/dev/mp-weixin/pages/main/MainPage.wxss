@@ -1,0 +1,10 @@
+
+.logoutBtn {
+  position: absolute;
+  margin-left: 50rpx;
+}
+page {
+  background-color: #f7f8fa;
+}
+
+

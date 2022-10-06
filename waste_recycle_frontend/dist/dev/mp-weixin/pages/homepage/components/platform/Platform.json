@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "platform-up": "./PlatformUp",
+    "platform-down": "./PlatformDown"
+  }
+}

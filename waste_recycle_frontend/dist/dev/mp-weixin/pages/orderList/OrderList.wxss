@@ -1,0 +1,15 @@
+
+.van-card-full.data-v-698aaf56{
+  margin: 15rpx auto;
+  width: 90%;
+  box-shadow: 0 5rpx 10rpx #FAFAFA;
+}
+.icon.data-v-698aaf56 {
+  width: 70%;
+  position: absolute;
+  bottom: 220rpx;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+

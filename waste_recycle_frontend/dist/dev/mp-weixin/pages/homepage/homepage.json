@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "classify-btn": "./components/common/ClassifyBtn",
+    "page-head": "./components/common/PageHead"
+  }
+}

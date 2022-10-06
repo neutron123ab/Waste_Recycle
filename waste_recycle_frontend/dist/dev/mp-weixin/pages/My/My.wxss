@@ -1,0 +1,61 @@
+
+.my.data-v-120ff4ca {
+  padding: 0 24rpx;
+  margin-top: 200rpx;
+  position: relative;
+}
+.my .userinfo.data-v-120ff4ca {
+  padding-left: 24rpx;
+}
+.my .userinfo .user-icon.data-v-120ff4ca {
+  height: 120rpx;
+  width: 120rpx;
+  margin-top: 40rpx;
+  border-radius: 60rpx;
+}
+.my .userinfo .username.data-v-120ff4ca {
+  color: #1b1b21;
+  margin-top: 20rpx;
+  font-size: 48rpx;
+  line-height: 64rpx;
+}
+.my .menu-list.data-v-120ff4ca {
+  margin-top: 60rpx;
+}
+.my .menu-list .li.data-v-120ff4ca {
+  margin: 30rpx;
+  padding: 20rpx 0;
+}
+.my .menu-list .li .href.data-v-120ff4ca {
+  width: 220rpx;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.my .menu-list .li .href .icon.data-v-120ff4ca {
+  padding: 0 5rpx;
+  font-size: 50rpx;
+}
+.my .menu-list .li .href .text.data-v-120ff4ca {
+  display: inline-block;
+  margin-left: 10rpx;
+}
+.my .background1.data-v-120ff4ca {
+  height: 1160rpx;
+  position: absolute;
+  top: 80rpx;
+  right: -250rpx;
+  z-index: -1;
+}
+.my .background2.data-v-120ff4ca {
+  height: 1000rpx;
+  position: absolute;
+  top: 140rpx;
+  right: -150rpx;
+  z-index: -2;
+  filter: opacity(20%);
+}
+
+
+
+

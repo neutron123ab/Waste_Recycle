@@ -1,0 +1,26 @@
+
+page{
+  background-color: #f7f8fa;
+}
+.img {
+  background-color: black;
+}
+.a {
+  height: 13vh;
+}
+.info {
+  margin-top: 15rpx;
+}
+.group {
+  width: 80%;
+  margin-top: 100rpx;
+  margin-bottom: 160rpx;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  display: flex;
+  flex-direction: row;
+  margin-top: 80rpx;
+}
+
